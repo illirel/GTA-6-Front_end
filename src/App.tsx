@@ -3,7 +3,7 @@ import './App.css';
 function App() {
 	return (
 		<div>
-			<h1>GTA-6-Оставь заявку121</h1>
+			<h1>GTA-6-Оставь заявку</h1>
 		</div>
 	);
 }
