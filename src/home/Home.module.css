@@ -4,7 +4,7 @@
 
 .wrapper > form {
 	@apply w-max p-3 absolute left-5 top-5;
-	animation: slideIn 2s ease-in-out;
+	animation: slideIn 1s ease-in-out;
 }
 .wrapper > form > h1 {
 	@apply text-2xl mb-3;
